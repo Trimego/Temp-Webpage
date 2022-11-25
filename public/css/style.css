@@ -3,6 +3,9 @@ body{
     background-color: #121212;
     background-image: url("./background.png");
     background-size: cover;
+    background-repeat:no-repeat;
+    width:auto;
+    height:auto;
     font-family: 'Open Sans', sans-serif;
     
 }
